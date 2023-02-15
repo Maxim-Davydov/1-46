@@ -1,3 +1,4 @@
 # 1-46
 Даны длины сторон прямоугольного параллелепипеда. Найти его объем и площадь боковой поверхности.
-![image](https://user-images.githubusercontent.com/116034877/205596308-66f702cf-bfea-4018-8319-adf7324ba5d2.png)
+![1-496](https://user-images.githubusercontent.com/116034877/219002859-24d8715a-1779-497e-8146-2c6fcd54ec1a.PNG)
+№25 в списке
